@@ -1,7 +1,8 @@
-# Ref: https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+# Ref: https://git-scm.com/docs/git-log
 # All commit info
 git log --all > $file
 
+# Ref: https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
 # Last 10 commits
 git log -10
 
