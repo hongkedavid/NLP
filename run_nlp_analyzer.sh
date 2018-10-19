@@ -8,4 +8,5 @@ cat rfc1035.txt | head -n2736 | tail -n2608 | python parse_tree_rfc.py > rfc1035
 # Topic modeling
 cat commit.full | python topic_model.py
 cat manpage.filter | python topic_model.py
+cat rfc1035.filter | python topic_model.py
 cat tcpros.manpage.out tcpros.doc.out | sed 's/:\./\./g' | python topic_model.py
