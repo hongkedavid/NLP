@@ -1,2 +1,2 @@
-# NLP
-Hacking of common NLP libraries
+# NLP Analyzer
+NLP parsing and topic modeling toolkit
