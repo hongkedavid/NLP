@@ -2,9 +2,8 @@
 NLP parsing and topic modeling toolkit
 
 ## Dependency
-stanfordcorenlp (https://stanfordnlp.github.io/CoreNLP/)
-
-nltk
+* ```stanfordcorenlp``` (https://stanfordnlp.github.io/CoreNLP/)
+* ```nltk```
 
 ## How to run
 ```
