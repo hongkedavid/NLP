@@ -4,6 +4,8 @@ NLP parsing and topic modeling toolkit
 ## Dependency
 * ```stanfordcorenlp``` (https://stanfordnlp.github.io/CoreNLP/)
 * ```nltk```
+* ```numpy```
+* ```gensim```
 
 ## How to run
 ```
